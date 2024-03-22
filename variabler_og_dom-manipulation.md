@@ -1,6 +1,6 @@
 <h1>Variabler og DOM-manipulation</h1>
 
-<h3>Følgende opgaver laves i selvvalgte grupper på 2-3 personer:</h3>
+<h3>Følgende opgaver laves i grupper på 2-3 personer:</h3>
 
 <h2> Opgave 1: Ændre tekst på et element </h2>
 
@@ -41,5 +41,7 @@ Mål: Skjul og vis et specifikt element ved brug af JavaScript.
 Beskrivelse: Giv et element et id, og skriv to funktioner: én der skjuler elementet (ved at sætte dets display til none), og én der viser elementet (ved at sætte dets display stil tilbage til block eller en tom streng).
 
 Hint: Brug style.display egenskaben til at kontrollere elementets visning.
+
+<h3>Løsningen fremlægges for resten af klassen</h3>
 
 
